@@ -19,7 +19,3 @@ The Cyclogram Message Distribution Tool is designed to efficiently distribute me
 - **Automated Testing:**
   - Python scripts (for validating functionality and ensuring reliability)
 
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Cyclogram-Message-Distribution-Tool.git
